@@ -1,0 +1,40 @@
+body{
+   background-color: rgba(20, 20, 20, 0.959);
+   font-family: 'Montserrat', sans-serif;
+}
+
+.nav{
+   background-color: rgb(0, 0, 0);
+   position:static;
+   height: 50px;
+   width: 800px;
+   left:0px;
+   top:0px;
+   margin:0;border:0;padding:0;
+}
+
+.nav li {
+   display: inline;
+   float: left;
+   line-height: 50px;
+   padding-left: 100px;
+}
+
+.nav a {
+   color: rgb(236, 205, 178);
+   font-size: 22px;
+}
+
+.error{
+   position:static;
+   height: 500px;
+   width: 800px;
+   left:0px;
+   top:50px;
+   margin:0;border:0;padding:0
+}
+
+.error img{
+   width: 800px;
+   height: 300px;
+}
